@@ -7,4 +7,4 @@ It is a simple while loop that iterates until the user inputs "10" and the progr
 Student, test and testResults are classes that are added to lists of the same class type.
 
 
-This assignment involves the use of classes, input/output, operator overlaoding, lambda functions, the algorithm library, iterators and pointers.
+This assignment involves the use of classes, input/output, operator overloading, lambda functions, the algorithm library, iterators and pointers.
